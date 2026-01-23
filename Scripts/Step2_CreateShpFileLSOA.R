@@ -111,6 +111,7 @@ stopifnot(all(nchar(names(map_data)) <= 10))
 # 5) Write to Shapefile
 # -----------------------------
 
+
 write_sf(map_data,"C:/Users/Sarah.Glover/OneDrive - NHS/BI Analytics Hub - Work Requests - Work Requests/A0198/A0198_PCN_Boundary_SSOT_STW/Data/map_data.shp", delete_layer = TRUE)
 
 
