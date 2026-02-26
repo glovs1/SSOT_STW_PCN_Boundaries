@@ -565,7 +565,7 @@ ui <- fluidPage(
           tags$hr(),
           # Display note requested
           helpText(
-            "Note: PCN catchments can be selected to show where at least 50% and up to 98% of their patients reside, based on data at Oct 2025.",
+            "Note: PCN catchments can be selected to show where at least 50% and up to 98% of their patients reside, based on data at Jan 2026.",
             "In the legend, ABC PCN and Rugeley & Great Haywood PCN are assigned to the Sub-ICB with the majority of their practices, although their catchments are defined on their total patient list."
           )
       ),
